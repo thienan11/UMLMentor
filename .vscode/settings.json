@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "CurrentBuild"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
